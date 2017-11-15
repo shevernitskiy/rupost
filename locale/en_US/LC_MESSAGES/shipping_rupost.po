@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wa-plugins/shipping/rupost\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-11-08 00:18+0300\n"
+"Last-Translator: shevernitskiy <hwork@list.ru>\n"
+"Language-Team: wa-plugins/shipping/rupost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.0.4\n"
+
+msgid "Use airmail type dilvery"
+msgstr ""
+
+msgid "If possible, do calculation for airmail"
+msgstr ""
+
+msgid "Show estimated delivery date"
+msgstr ""
+
+msgid "Shows estimated delivery date on checkout page"
+msgstr ""
+
+msgid "Minimum days delivery"
+msgstr ""
+
+msgid "Russian Post is sucks, only manual setting is avaible"
+msgstr ""
+
+msgid "Maximum days delivery"
+msgstr ""
+
+msgid "Additional weight (gramms)"
+msgstr ""
+
+msgid "Add this amount to total weight of order goods"
+msgstr ""
+
+msgid "Additional declared value (RUB)"
+msgstr ""
+
+msgid "Add this amount to total declare value for delivery calculation"
+msgstr ""
+
+msgid "Additional price (RUB)"
+msgstr ""
+
+msgid "Add this amount to dilvery price"
+msgstr ""
+
+msgid "Russian Post Airmail"
+msgstr ""
+
+msgid "Standart trackable mail shipping"
+msgstr ""
+
+msgid "Sender company"
+msgstr ""
+
+msgid "Sender address"
+msgstr ""
+
+msgid "Sender index"
+msgstr ""
+
+msgid "Sender city"
+msgstr ""
+
+msgid "Sender country"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "License number"
+msgstr ""
+
+msgid "Certificate number"
+msgstr ""
+
+msgid "Invoice number"
+msgstr ""
+
+msgid "Amount of pakages"
+msgstr ""
+
+msgid "Gift checkbox"
+msgstr ""
+
+msgid "Document checkbox"
+msgstr ""
+
+msgid "Commercial good checkbox"
+msgstr ""
+
+msgid "Return checkbox"
+msgstr ""
+
+msgid "Etc checkbox"
+msgstr ""
+
+msgid "License checkbox"
+msgstr ""
+
+msgid "Certificate checkbox"
+msgstr ""
+
+msgid "Invoice checkbox"
+msgstr ""
+
+msgid "Priority mail checkbox"
+msgstr ""
+
+msgid "Econom checkbox"
+msgstr ""
+
+msgid "Return to sender checkbox"
+msgstr ""
+
+msgid "Api login"
+msgstr ""
+
+msgid "Login for russian post tracking api"
+msgstr ""
+
+msgid "Api password"
+msgstr ""
+
+msgid "Password for russian post tracking api"
+msgstr ""
+
+msgid "Update interval (min)"
+msgstr ""
+
+msgid "Tracking information will update after this interval (do not set it to small, it make backend interface slower)"
+msgstr ""
+
+msgid "Backend full track history"
+msgstr ""
+
+msgid "Shows all stages of track history in backend"
+msgstr ""
+
+msgid "Frontend full track history"
+msgstr ""
+
+msgid "Shows all stages of track history in frontend"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "No operations registered at this moment"
+msgstr ""

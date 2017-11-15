@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wa-plugins/shipping/rupost\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-11-08 00:16+0300\n"
+"Last-Translator: shevernitskiy <hwork@list.ru>\n"
+"Language-Team: wa-plugins/shipping/rupost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 2.0.4\n"
+
+msgid "Use airmail type dilvery"
+msgstr "Отправления АВИА"
+
+msgid "If possible, do calculation for airmail"
+msgstr "Если есть возможность, вычислять стоимость доставки для отправлений с пометкой АВИА"
+
+msgid "Show estimated delivery date"
+msgstr "Показывать ожидаемую дату доставки"
+
+msgid "Shows estimated delivery date on checkout page"
+msgstr "Показывать на странице оформления заказа ожидаемую дату доставки"
+
+msgid "Minimum days delivery"
+msgstr "Минимальное  количество дней"
+
+msgid "Russian Post is sucks, only manual setting is avaible"
+msgstr "Почта России молчит как партизан о сроках международной доставки, поэтому нужно прописать это вручную"
+
+msgid "Maximum days delivery"
+msgstr "Максимальное количество дней"
+
+msgid "Additional weight (gramms)"
+msgstr "Добавочный вес (грамм)"
+
+msgid "Add this amount to total weight of order goods"
+msgstr "Добавить это значение к общему весу товара в заказе"
+
+msgid "Additional declared value (RUB)"
+msgstr "Добавочная объявленная стоимость (руб)"
+
+msgid "Add this amount to total declare value for delivery calculation"
+msgstr "Добавить это значение к общей сумме объявленной ценности"
+
+msgid "Additional price (RUB)"
+msgstr "Добавочная цена доставки"
+
+msgid "Add this amount to dilvery price"
+msgstr "Добавить это значение к итоговой цене доставки"
+
+msgid "Russian Post Airmail"
+msgstr "Почта России (Авиа)"
+
+msgid "Standart trackable mail shipping"
+msgstr "Стандартная ценная посылка с трек-номером, отправленная авиа почтой"
+
+msgid "Sender company"
+msgstr "Компания отправитель"
+
+msgid "Sender address"
+msgstr "Адрес отправителя"
+
+msgid "Sender index"
+msgstr "Индекс отправителя"
+
+msgid "Sender city"
+msgstr "Город отправителя"
+
+msgid "Sender country"
+msgstr "Страна отправителя"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "License number"
+msgstr "Номер лицензии"
+
+msgid "Certificate number"
+msgstr "Номер сертификата"
+
+msgid "Invoice number"
+msgstr "Номер счета"
+
+msgid "Amount of pakages"
+msgstr "Количество посылок"
+
+msgid "Gift checkbox"
+msgstr "Крестик Подарок"
+
+msgid "Document checkbox"
+msgstr "Крестик Документы"
+
+msgid "Commercial good checkbox"
+msgstr "Крестик Коммерческий Товар"
+
+msgid "Return checkbox"
+msgstr "Крестик Вернуть отправителю"
+
+msgid "Etc checkbox"
+msgstr "Крестик Другое"
+
+msgid "License checkbox"
+msgstr "Крестик Лицензия"
+
+msgid "Certificate checkbox"
+msgstr "Крестик Сертификат"
+
+msgid "Invoice checkbox"
+msgstr "Крестик Счет"
+
+msgid "Priority mail checkbox"
+msgstr "Крестик Приоритетная почта"
+
+msgid "Econom checkbox"
+msgstr "Крестик Эконом почта"
+
+msgid "Return to sender checkbox"
+msgstr "Крестик Вернуть отправителю"
+
+msgid "Api login"
+msgstr "Логин api"
+
+msgid "Login for russian post tracking api"
+msgstr "Логин для api tracking.russianpost.ru"
+
+msgid "Api password"
+msgstr "Пароль api"
+
+msgid "Password for russian post tracking api"
+msgstr "Пароль для api tracking.russianpost.ru"
+
+msgid "Update interval (min)"
+msgstr "Интервал обновления (мин)"
+
+msgid "Tracking information will update after this interval (do not set it to small, it make backend interface slower)"
+msgstr "История трека будет запрашиваться через этот интервал (не устанавливайте слишком маленькое значение, частые запросы тормозят отображение заказа в бэкенде)"
+
+msgid "Backend full track history"
+msgstr "Полная история в бэкенде"
+
+msgid "Shows all stages of track history in backend"
+msgstr "Показывать подробную историю отправления в бэкенде"
+
+msgid "Frontend full track history"
+msgstr "Полная история во фронтенде"
+
+msgid "Shows all stages of track history in frontend"
+msgstr "Показывать подробную историю отправления во фронтенде"
+
+msgid "Location"
+msgstr "Место"
+
+msgid "No operations registered at this moment"
+msgstr "Не зарегистрировано ни одной операции"
